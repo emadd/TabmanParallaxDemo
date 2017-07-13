@@ -1,0 +1,21 @@
+PODS:
+  - MXParallaxHeader (0.6.1)
+  - Pageboy (1.3.3)
+  - PureLayout (3.0.2)
+  - Tabman (0.7.2):
+    - Pageboy (~> 1.3.0)
+    - PureLayout (~> 3.0.0)
+
+DEPENDENCIES:
+  - MXParallaxHeader
+  - Tabman
+
+SPEC CHECKSUMS:
+  MXParallaxHeader: 858c403532ed933b381556a81ce333d7065ad182
+  Pageboy: 35efa6ddf10740eff76839116435cad7ea5e9e04
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  Tabman: d15ff77e3c60495a4d2b3dd482b7c5b8597a6180
+
+PODFILE CHECKSUM: a978947045ddcc909145c9c2c0023e97d9b3ed86
+
+COCOAPODS: 1.1.1
